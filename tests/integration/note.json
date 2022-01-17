@@ -1,0 +1,20 @@
+{
+    "validNote": {
+        "title": "My city",
+        "content": "I live in Mumbai "
+    },
+    "invalidNote": {
+        "title": "Me",
+        "content": "Me"
+    },
+
+    "validUpdate": {
+        "title": "Changed My City",
+        "content": "I live in Pune"
+    },
+
+    "invalidUpdate": {
+        "title": "",
+        "content": "update not working"
+    }
+}

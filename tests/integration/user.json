@@ -1,0 +1,45 @@
+{
+    "validRegistration": {
+        "firstname": "Meghnad",
+        "lastname": "Shirole",
+        "email": "meghnadshirole@gmail.com",
+        "password": "Megh@1827"
+    },
+
+    "invalidRegistration": {
+        "firstname": "ab",
+        "lastname": "ghy",
+        "email": "tgdyudh",
+        "password": "hytgdd"
+    },
+
+    "emptyRegistration": {
+        "firstname": "",
+        "lastname": "",
+        "email": "",
+        "password": ""
+    },
+
+    "validLogin": {
+        "email": "meghnadshirole@gmail.com",
+        "password": "Megh@1827"
+    },
+
+    "invalidLogin": {
+        "email": "abcd",
+        "password": "xyz"
+    },
+
+    "forgetPassword": {
+        "email": "meghnadshirole@gmail.com"
+    },
+
+    "invalidEmail": {
+        "email": "ms@gmail.com"
+    },
+
+    "resetPassword": {
+        "header": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZyZWV1c2UxNEBnbWFpbC5jb20iLCJfaWQiOiI2MWUxN2U1MGY5Nzc3YjA0YjAzMTBlNTAiLCJpYXQiOjE2NDIxNjc4OTN9.mENYTcebImuCKmi64V5mYdwoAVN3zyHeKJSYKMeyEKo",
+        "password": "Megh@27994"
+    }
+}

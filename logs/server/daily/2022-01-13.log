@@ -1,0 +1,70 @@
+error: Could not connect to the database. The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. {"stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.Connection.openUri (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\connection.js:694:11)\n    at C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\index.js:351:10\n    at C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:32:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:31:10)\n    at Mongoose._promiseOrCallback (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\index.js:1149:10)\n    at Mongoose.connect (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\index.js:350:20)\n    at database (file:///C:/Users/Meghnad/Fundoo_App/src/config/database.js:12:24)\n    at file:///C:/Users/Meghnad/Fundoo_App/src/index.js:31:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n    at async Promise.all (index 0)\n    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n    at async loadESM (node:internal/process/esm_loader:88:5)\n    at async handleMainPromise (node:internal/modules/run_main:65:12)","timestamp":"2022-01-13T08:54:07.278Z"}
+info: Server started at undefined:undefined/api/undefined/ {"timestamp":"2022-01-13T08:54:07.297Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T08:55:09.735Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T08:55:09.791Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T08:56:23.500Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T08:57:19.233Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T08:57:19.475Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T08:58:50.754Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T08:58:50.814Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T08:59:43.988Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T08:59:44.046Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:01:57.127Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:01:57.193Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-13T09:01:57.267Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:04:34.580Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:04:34.642Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-13T09:04:34.760Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:07:48.368Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:07:48.430Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-13T09:07:48.511Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:10:08.064Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:10:08.111Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:10:56.015Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:10:56.063Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:11:43.649Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:11:43.698Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:19:02.560Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:19:02.619Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:20:35.371Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:20:35.436Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:34:33.761Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:34:33.872Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:45:33.956Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:45:34.137Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-13T09:45:34.821Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T09:46:36.914Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T09:46:36.979Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-13T09:46:37.503Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-13T10:11:50.000Z"}
+info: Connected to the database. {"timestamp":"2022-01-13T10:11:50.113Z"}

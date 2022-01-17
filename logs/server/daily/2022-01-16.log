@@ -1,0 +1,1024 @@
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:00:16.176Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:00:16.238Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:00:17.116Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:00:17.154Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:00:17.621Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:00:42.865Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:00:42.916Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:00:43.285Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:00:43.311Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:00:43.818Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:04:03.887Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:04:03.963Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:04:04.306Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:04:04.334Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:04:04.720Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:04:26.091Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:04:26.158Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:04:26.754Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:04:26.939Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:04:27.407Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:08:18.252Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:08:18.455Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:08:18.994Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:08:19.050Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:08:19.718Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:10:13.821Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:10:13.874Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:10:14.195Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:10:14.225Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:10:14.559Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:12:41.291Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:12:41.388Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:12:41.680Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:12:41.698Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:12:42.123Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:14:59.531Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:14:59.588Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:14:59.911Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:14:59.937Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:15:00.327Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:16:17.549Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:16:17.923Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:16:18.033Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:16:18.073Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:16:18.568Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:17:46.091Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:17:46.163Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:17:46.573Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:17:46.599Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:17:46.966Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:18:29.970Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:18:30.036Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:18:30.366Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:18:30.391Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:18:30.756Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:23:11.606Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:23:11.678Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:25:01.566Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:25:01.626Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:43:08.176Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:43:08.265Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:43:09.112Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:43:09.141Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:45:37.646Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:45:37.746Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:45:37.973Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:45:37.993Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:48:24.507Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:48:24.614Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:48:24.785Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:48:24.824Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:50:11.112Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:50:11.182Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:50:11.547Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:50:11.568Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T10:53:13.369Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T10:53:13.426Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:53:13.926Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T10:53:13.976Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T11:07:28.839Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T11:07:28.895Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T11:07:29.307Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T11:07:29.331Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:16:15.370Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:16:15.619Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:16:16.914Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:16:16.934Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:16:18.079Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:17:06.677Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:17:06.736Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:17:07.049Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:17:07.072Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:17:07.817Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:19:14.352Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:19:14.405Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:19:14.777Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:19:14.806Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:19:15.258Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:20:55.880Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:20:55.941Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:20:56.283Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:20:56.308Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:20:56.745Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:21:41.088Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:21:41.151Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:21:41.556Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:21:41.590Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:21:41.973Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:22:49.300Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:22:49.357Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:22:49.727Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:22:49.757Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:22:50.161Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e42a3ad5afb43910e42a6d 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:22:50.319Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:25:00.123Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:25:00.200Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:25:00.513Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:25:00.535Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:25:00.892Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e42abc0c4c0208acef01ae 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:25:01.016Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:25:52.202Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:25:52.540Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:25:52.622Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:25:52.646Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:25:53.037Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e42af0f2e1b925cc7e3999 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:25:53.171Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:30:12.158Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:30:12.223Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:30:12.561Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:30:12.587Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:30:12.921Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e42bf4377ba40124cb46ca 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:30:13.083Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:32:42.887Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:32:42.938Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:32:43.256Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:32:43.283Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:32:43.640Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e42c8b18221605c86ef824 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:32:43.758Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:39:43.944Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:39:44.016Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:39:44.415Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:39:44.470Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:39:44.911Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e42e303f605e088c946b59 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:39:45.109Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:45:03.556Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:45:03.611Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:45:03.929Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:45:03.957Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:45:04.449Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e42f7082526112085e65f4 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:45:04.570Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:48:14.088Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:48:14.137Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:48:14.444Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:48:14.477Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:48:14.850Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e4302ed740be25cc6c131e 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:48:14.999Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:48:42.091Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:48:42.150Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:48:42.527Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:48:42.557Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:48:42.954Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e4304ac376121db4020996 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:48:43.073Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:55:21.358Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:55:21.474Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:55:22.285Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:55:22.341Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:55:22.960Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e431da70ba6425d8ab5c1a 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:55:23.460Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T14:56:38.832Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T14:56:38.896Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:56:39.209Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:56:39.236Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:56:39.608Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e43227d03188148c479427 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T14:56:39.760Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T15:04:44.652Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T15:04:44.811Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:04:46.247Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:04:46.325Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:04:47.219Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e4340f3b6a7e2e14f9cdd1 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:04:47.539Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T15:06:26.993Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T15:06:27.080Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:06:27.372Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:06:27.411Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:06:27.834Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e43473ed427117a8587c08 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:06:28.060Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T15:28:47.223Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T15:28:47.312Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:28:48.226Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:28:48.258Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:28:48.986Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e439b0def11935c4559bc1 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:28:49.194Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T15:36:56.677Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T15:36:56.829Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:36:57.400Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:36:57.466Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:36:58.630Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e43b9acfc19d3e0870451a 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:36:58.820Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T15:48:11.489Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T15:48:11.590Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:48:12.104Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:48:12.170Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:48:12.701Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e43e3c62b7db27f071fd45 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:48:12.996Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T15:51:44.294Z"}
+error: Could not connect to the database. connection timed out {"reason":{"commonWireVersion":null,"compatibilityError":null,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Single"},"stack":"MongooseServerSelectionError: connection timed out\n    at NativeConnection.Connection.openUri (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\connection.js:847:32)\n    at C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\index.js:351:10\n    at C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:32:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:31:10)\n    at Mongoose._promiseOrCallback (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\index.js:1149:10)\n    at Mongoose.connect (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mongoose\\lib\\index.js:350:20)\n    at database (file:///C:/Users/Meghnad/Fundoo_App/src/config/database.js:12:24)\n    at file:///C:/Users/Meghnad/Fundoo_App/src/index.js:31:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n    at async Promise.all (index 0)\n    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n    at async importModuleDynamicallyWrapper (node:internal/vm/module:437:15)\n    at async formattedImport (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mocha\\lib\\esm-utils.js:7:14)\n    at async Object.exports.loadFilesAsync (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mocha\\lib\\esm-utils.js:55:20)\n    at async singleRun (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mocha\\lib\\cli\\run-helpers.js:125:3)\n    at async Object.exports.handler (C:\\Users\\Meghnad\\Fundoo_App\\node_modules\\mocha\\lib\\cli\\run.js:362:5)","timestamp":"2022-01-16T15:51:44.341Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:51:44.828Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:51:45.078Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T15:54:49.756Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T15:54:49.839Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:54:50.202Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:54:50.247Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:57:28.234Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e440671694ca07bcf703e0 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:57:30.236Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-16T15:58:18.624Z"}
+info: Connected to the database. {"timestamp":"2022-01-16T15:58:18.687Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:58:19.063Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:58:19.119Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" length must be at least 4 characters long 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:58:48.810Z"}
+error: 
+    status - 500 
+    message - ValidationError: "title" is not allowed to be empty 
+    url - /api/v1/notes/update/61e440b897c76b3f143043ed 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-16T15:58:49.200Z"}

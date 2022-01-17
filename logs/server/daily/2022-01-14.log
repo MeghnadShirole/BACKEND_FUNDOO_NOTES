@@ -1,0 +1,414 @@
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T10:07:23.324Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T10:07:24.569Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T10:07:26.378Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T10:10:28.781Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T10:10:28.842Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T10:10:29.289Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T10:12:05.842Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T10:12:05.983Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T10:12:06.265Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:09:42.040Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:09:42.140Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T13:09:43.232Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:12:38.446Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:12:38.616Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T13:12:38.991Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:19:12.675Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:19:12.834Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T13:19:13.202Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:23:49.000Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:23:49.071Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T13:23:49.631Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:43:53.108Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:43:53.172Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:45:46.281Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:45:46.352Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:46:10.035Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:46:10.094Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T13:46:10.780Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:49:08.874Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:49:08.934Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:52:06.960Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:52:07.040Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T13:52:07.789Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:58:28.547Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:58:28.638Z"}
+error: 
+    status - 500 
+    message - ValidationError: "isArchieved" is not allowed 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T13:58:29.002Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T13:58:29.511Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T13:59:07.266Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T13:59:07.317Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T13:59:07.697Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:02:45.321Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:02:45.397Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:02:45.979Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:03:26.952Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:03:27.015Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:03:27.385Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:20:35.344Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:20:35.413Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:20:35.783Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:21:46.599Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:21:46.652Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:21:47.157Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:24:02.896Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:24:02.960Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:24:03.289Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:25:16.249Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:25:16.310Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:25:16.676Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:27:45.173Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:27:45.249Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:27:45.591Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:35:18.868Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:35:18.926Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:35:19.268Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:37:30.788Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:37:30.878Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:37:31.218Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T14:41:33.127Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T14:41:33.183Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T14:41:33.521Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T15:43:04.526Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T15:43:04.593Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-01-14T15:43:34.207Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-01-14T15:44:04.349Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T15:45:28.726Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T15:45:28.785Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T15:46:22.902Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T15:46:22.964Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:12:57.445Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:12:57.596Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:12:58.752Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:12:58.772Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:14:10.464Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:14:10.522Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:14:10.887Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:14:10.936Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:15:26.739Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:15:26.875Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:15:27.207Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:15:27.231Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:20:23.825Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:20:24.012Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:20:24.276Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:20:24.298Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:21:15.961Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:21:16.031Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:21:16.379Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:21:16.401Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:37:59.951Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:38:00.023Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:38:00.368Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:38:00.390Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:40:05.164Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:40:05.213Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:40:05.576Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:40:05.598Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:41:10.545Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:41:10.599Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:41:11.047Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:41:11.075Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:44:53.998Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:44:54.060Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:44:54.600Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:44:54.627Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:45:44.807Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:45:44.867Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:45:45.256Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:45:45.306Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:49:16.849Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:49:16.904Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:49:17.262Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:49:17.282Z"}
+info: Server started at http://localhost:8080/api/v1/ {"timestamp":"2022-01-14T16:50:47.255Z"}
+info: Connected to the database. {"timestamp":"2022-01-14T16:50:47.316Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" length must be at least 3 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:50:47.652Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstname" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-01-14T16:50:47.672Z"}
